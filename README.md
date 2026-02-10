@@ -1,2 +1,0 @@
-# Nwsltr
-newsletter ids
